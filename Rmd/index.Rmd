@@ -6,7 +6,7 @@ output:
     toc: false  
 ---
 
-Welcome to the Modelling Infectious Diseases course on 9 June, 2016. Below you will find everything that is needed for the lab practical sessions, as well as the slides from our lectures.
+Welcome to the Modelling Infectious Diseases course on 9 June, 2016. Below you will find everything that is needed for the lab practical session, as well as the slides from the lecture.
 
 
 ## Required software
